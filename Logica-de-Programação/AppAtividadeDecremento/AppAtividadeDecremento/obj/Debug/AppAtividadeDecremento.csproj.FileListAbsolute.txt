@@ -1,0 +1,11 @@
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppAtividadeDecremento\AppAtividadeDecremento\bin\Debug\AppAtividadeDecremento.exe.config
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppAtividadeDecremento\AppAtividadeDecremento\bin\Debug\AppAtividadeDecremento.exe
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppAtividadeDecremento\AppAtividadeDecremento\bin\Debug\AppAtividadeDecremento.pdb
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppAtividadeDecremento\AppAtividadeDecremento\obj\Debug\AppAtividadeDecremento.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppAtividadeDecremento\AppAtividadeDecremento\obj\Debug\AppAtividadeDecremento.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppAtividadeDecremento\AppAtividadeDecremento\obj\Debug\AppAtividadeDecremento.Properties.Resources.resources
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppAtividadeDecremento\AppAtividadeDecremento\obj\Debug\AppAtividadeDecremento.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppAtividadeDecremento\AppAtividadeDecremento\obj\Debug\AppAtividadeDecremento.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppAtividadeDecremento\AppAtividadeDecremento\obj\Debug\AppAtividadeDecremento.exe
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppAtividadeDecremento\AppAtividadeDecremento\obj\Debug\AppAtividadeDecremento.pdb
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppAtividadeDecremento\AppAtividadeDecremento\obj\Debug\AppAtividadeDecremento.FrmExercicio1.resources
