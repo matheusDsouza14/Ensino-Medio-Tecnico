@@ -1,0 +1,22 @@
+H:\POO\Calculadora02\Calculadora02\bin\Debug\Calculadora02.exe.config
+H:\POO\Calculadora02\Calculadora02\bin\Debug\Calculadora02.exe
+H:\POO\Calculadora02\Calculadora02\bin\Debug\Calculadora02.pdb
+H:\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.csproj.AssemblyReference.cache
+H:\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.csproj.SuggestedBindingRedirects.cache
+H:\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.FrmCalculadora.resources
+H:\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.Properties.Resources.resources
+H:\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.csproj.GenerateResource.cache
+H:\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.csproj.CoreCompileInputs.cache
+H:\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.exe
+H:\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.pdb
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Calculadora02\Calculadora02\bin\Debug\Calculadora02.exe.config
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Calculadora02\Calculadora02\bin\Debug\Calculadora02.exe
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Calculadora02\Calculadora02\bin\Debug\Calculadora02.pdb
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.FrmCalculadora.resources
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.Properties.Resources.resources
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.exe
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Calculadora02\Calculadora02\obj\Debug\Calculadora02.pdb

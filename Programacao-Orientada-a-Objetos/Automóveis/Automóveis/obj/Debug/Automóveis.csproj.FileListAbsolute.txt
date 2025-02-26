@@ -1,0 +1,17 @@
+H:\POO\Automóveis\Automóveis\obj\Debug\Automóveis.csproj.AssemblyReference.cache
+H:\POO\Automóveis\Automóveis\obj\Debug\Automóveis.csproj.SuggestedBindingRedirects.cache
+H:\POO\Automóveis\Automóveis\obj\Debug\Automóveis.Form1.resources
+H:\POO\Automóveis\Automóveis\obj\Debug\Automóveis.Properties.Resources.resources
+H:\POO\Automóveis\Automóveis\obj\Debug\Automóveis.csproj.GenerateResource.cache
+H:\POO\Automóveis\Automóveis\obj\Debug\Automóveis.csproj.CoreCompileInputs.cache
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Automóveis\Automóveis\bin\Debug\Automóveis.exe.config
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Automóveis\Automóveis\bin\Debug\Automóveis.exe
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Automóveis\Automóveis\bin\Debug\Automóveis.pdb
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Automóveis\Automóveis\obj\Debug\Automóveis.csproj.AssemblyReference.cache
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Automóveis\Automóveis\obj\Debug\Automóveis.csproj.SuggestedBindingRedirects.cache
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Automóveis\Automóveis\obj\Debug\Automóveis.Form1.resources
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Automóveis\Automóveis\obj\Debug\Automóveis.Properties.Resources.resources
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Automóveis\Automóveis\obj\Debug\Automóveis.csproj.GenerateResource.cache
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Automóveis\Automóveis\obj\Debug\Automóveis.csproj.CoreCompileInputs.cache
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Automóveis\Automóveis\obj\Debug\Automóveis.exe
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Automóveis\Automóveis\obj\Debug\Automóveis.pdb

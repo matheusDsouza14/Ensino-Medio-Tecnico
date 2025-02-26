@@ -1,0 +1,5 @@
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Exercício Aula_12_05_23\Exercício Aula_12_05_23\obj\Debug\net6.0\Exercício Aula_12_05_23.csproj.AssemblyReference.cache
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Exercício Aula_12_05_23\Exercício Aula_12_05_23\obj\Debug\net6.0\Exercício Aula_12_05_23.GeneratedMSBuildEditorConfig.editorconfig
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Exercício Aula_12_05_23\Exercício Aula_12_05_23\obj\Debug\net6.0\Exercício Aula_12_05_23.AssemblyInfoInputs.cache
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Exercício Aula_12_05_23\Exercício Aula_12_05_23\obj\Debug\net6.0\Exercício Aula_12_05_23.AssemblyInfo.cs
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Exercício Aula_12_05_23\Exercício Aula_12_05_23\obj\Debug\net6.0\Exercício Aula_12_05_23.csproj.CoreCompileInputs.cache

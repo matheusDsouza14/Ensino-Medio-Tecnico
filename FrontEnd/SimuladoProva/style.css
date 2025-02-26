@@ -1,0 +1,55 @@
+body{
+ background-color:#0000ff:
+}
+table{
+	width:100%
+}
+#cabecalho{
+	background-color:#b8a81c;
+	width:100%;
+	border: solid 2px;
+	border-radius: 40px;
+}
+#corpo{
+	background:white;
+	height:85%;
+	margin-top:1%;
+	text-align:center;
+}
+.vazio{
+	width:175px
+}
+#titulo{
+	text-align:center;
+	font-size:35px;
+}
+.branco{
+	width:10%;
+	border:solid 2px;
+}
+#texto{
+	background:#ff7566;
+	width:25%;
+	text-align: left;
+	padding:0px;
+	font-size:20px
+}
+.vermelho{
+	background:#a09eff;
+}
+.azul{
+	background:#ffb3ab;
+}
+.metade{
+	height:300px;
+	width:30%;
+}
+.ultimo{
+	height:190px;
+}
+#tab{
+	height:300px;
+}
+.menor{
+	width:10%;
+}

@@ -1,0 +1,19 @@
+H:\POO\jogo_da_velha\jogo_da_velha\bin\Debug\jogo_da_velha.exe.config
+H:\POO\jogo_da_velha\jogo_da_velha\bin\Debug\jogo_da_velha.exe
+H:\POO\jogo_da_velha\jogo_da_velha\bin\Debug\jogo_da_velha.pdb
+H:\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.csproj.AssemblyReference.cache
+H:\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.csproj.SuggestedBindingRedirects.cache
+H:\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.Properties.Resources.resources
+H:\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.csproj.GenerateResource.cache
+H:\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.csproj.CoreCompileInputs.cache
+H:\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.exe
+H:\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.pdb
+H:\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.FrmJogoDaVelha.resources
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.FrmJogoDaVelha.resources
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.Properties.Resources.resources
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.exe
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\jogo_da_velha\jogo_da_velha\obj\Debug\jogo_da_velha.pdb

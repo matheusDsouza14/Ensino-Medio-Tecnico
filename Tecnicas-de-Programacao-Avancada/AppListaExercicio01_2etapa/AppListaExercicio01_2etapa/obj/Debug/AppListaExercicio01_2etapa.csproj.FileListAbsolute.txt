@@ -1,0 +1,23 @@
+H:\Lógica\2Trimestre\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.csproj.AssemblyReference.cache
+H:\Lógica\2Trimestre\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.csproj.SuggestedBindingRedirects.cache
+H:\Lógica\2Trimestre\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.FrmExercicio3.resources
+H:\Lógica\2Trimestre\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.Properties.Resources.resources
+H:\Lógica\2Trimestre\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.csproj.GenerateResource.cache
+H:\Lógica\2Trimestre\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.csproj.CoreCompileInputs.cache
+H:\Lógica\2Trimestre\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\bin\Debug\AppListaExercicio01_2etapa.exe.config
+H:\Lógica\2Trimestre\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\bin\Debug\AppListaExercicio01_2etapa.exe
+H:\Lógica\2Trimestre\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\bin\Debug\AppListaExercicio01_2etapa.pdb
+H:\Lógica\2Trimestre\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.exe
+H:\Lógica\2Trimestre\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.pdb
+H:\Lógica\2Trimestre\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.FrmExercicio4.resources
+H:\Lógica\2Trimestre\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.FrmExercicio6.resources
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.FrmExercicio4.resources
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.FrmExercicio3.resources
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.FrmExercicio6.resources
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.Properties.Resources.resources
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.exe
+C:\Users\mathe\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\2 ANO\Logica e Programação\AppListaExercicio01_2etapa\AppListaExercicio01_2etapa\obj\Debug\AppListaExercicio01_2etapa.pdb

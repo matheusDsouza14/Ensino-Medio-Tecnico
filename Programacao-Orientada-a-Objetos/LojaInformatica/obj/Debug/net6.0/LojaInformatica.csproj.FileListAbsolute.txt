@@ -1,0 +1,8 @@
+E:\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\LojaInformatica\obj\Debug\net6.0\LojaInformatica.csproj.AssemblyReference.cache
+E:\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\LojaInformatica\obj\Debug\net6.0\LojaInformatica.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\LojaInformatica\obj\Debug\net6.0\LojaInformatica.AssemblyInfoInputs.cache
+E:\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\LojaInformatica\obj\Debug\net6.0\LojaInformatica.AssemblyInfo.cs
+E:\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\LojaInformatica\obj\Debug\net6.0\LojaInformatica.csproj.CoreCompileInputs.cache
+E:\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\LojaInformatica\obj\Debug\net6.0\LojaInformatica.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\LojaInformatica\obj\Debug\net6.0\LojaInformatica.RazorAssemblyInfo.cache
+E:\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\LojaInformatica\obj\Debug\net6.0\LojaInformatica.RazorAssemblyInfo.cs

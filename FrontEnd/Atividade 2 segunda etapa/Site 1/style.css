@@ -1,0 +1,73 @@
+body{
+    font-size: 1.8rem;
+    margin: 0;
+    
+}
+li{
+        display: inline-block;
+}
+.buttons{
+    text-align: right;
+    margin-left: 3rem;
+    z-index: 4;
+}
+
+#hire-me{
+    font-size: 20px;
+    border: solid 2px;
+    color:#77b7ff;
+    padding-top: 0.05rem;
+    padding-bottom: 0.05rem;
+    padding-right: 1.4rem;
+    padding-left: 1.4rem;
+}
+#block_blue{
+    background-color: #77b7ff;
+    height: 600px; 
+    width: 600px;
+    position: relative;
+    z-index: -3;
+    margin-top: -26em;
+    margin-left: 31.09em;
+}
+#container_logo{
+    position: relative;
+    margin-left: 10em ;
+}
+.container_buttons{
+    position: relative ;
+    margin-top: -2em;
+    margin-left: 30.2em ;
+}
+#Placeholder{
+    z-index: -2 ;
+    position: relative;
+    margin-left: 30%;
+    margin-top: -1em;
+    align-content:center;
+}
+#container_content{
+    width: 100%;
+}
+#container_subtitle{
+    position: relative;
+    margin-top: -10em;
+    margin-left:9em;
+    z-index: -1;
+}
+#container_header{
+    font-size: 20px;
+    width: 100%;
+    position: relative;
+    margin-top: 1em;
+    height: 100px;
+    width: 100%;
+    z-index: -1;
+}
+#name{
+    color:#3a86ff;
+}
+#Hello{
+    font-size: 20px;
+    color:#3a86ff
+}

@@ -1,0 +1,34 @@
+﻿@model List<ModelClientes>
+<div class="shadow-ig p-3 mb-5 bg-body-tertiary rounded">
+    <h1 class= "display-4">Dados Clientes</h1>
+    <table class="table table-striped">
+        <thead class="table"></thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Cpf</th>
+            <th scope="col">Email</th>
+            <th scope="col">Endereço</th>
+            <th scope="col">Alterar</th>
+            <th scope="col">Deletar</th>
+        </tr>
+        </thead>
+        <tbody>
+            @if (Model != null)
+            {
+                @foreach (var client in Model.ToList())
+                {
+                    <tr>
+                        <th>@client.Id</th>
+                        <td>@client.Nome</td>
+                        <td>@client.Email</td>
+                        <td>@client.Endereco</td>
+                        <td><a href="button type="button"class="btn btn-primary">Alterar</td>
+                        <td><a href="button type="button" class="btn btn-danger">Deletar</td>
+
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b3cee5c-6952-4731-aaa6-91d1e86431a9": {
+      "ProjectGuid": "1b3cee5c-6952-4731-aaa6-91d1e86431a9",
+      "DisplayName": "jogo_da_velha",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

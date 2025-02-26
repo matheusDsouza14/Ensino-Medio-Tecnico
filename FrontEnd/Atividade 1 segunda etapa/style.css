@@ -1,0 +1,35 @@
+body {
+    background-image: url("header_showcase.jpg");
+  }
+lv{
+ border: 2px solid;
+ color:white;
+}
+.Title{
+    width:"100%";
+    text-align: center;
+}
+#buttons{
+    text-align: center;
+    font-size: 2rem
+
+}
+#buttons:hover{
+    border-style: solid 2px;
+    
+}
+#H1_1{
+    font-size: 3rem;
+    color: white;
+}
+#subtitle{
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: white;
+}
+.content{
+    text-align: center;
+}
+.container_content{
+    width:100%;
+}

@@ -1,0 +1,15 @@
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\bin\Debug\net6.0\Resumo Herança e Polimorfismo.exe
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\bin\Debug\net6.0\Resumo Herança e Polimorfismo.deps.json
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\bin\Debug\net6.0\Resumo Herança e Polimorfismo.runtimeconfig.json
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\bin\Debug\net6.0\Resumo Herança e Polimorfismo.dll
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\bin\Debug\net6.0\Resumo Herança e Polimorfismo.pdb
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\obj\Debug\net6.0\Resumo Herança e Polimorfismo.csproj.AssemblyReference.cache
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\obj\Debug\net6.0\Resumo Herança e Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\obj\Debug\net6.0\Resumo Herança e Polimorfismo.AssemblyInfoInputs.cache
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\obj\Debug\net6.0\Resumo Herança e Polimorfismo.AssemblyInfo.cs
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\obj\Debug\net6.0\Resumo Herança e Polimorfismo.csproj.CoreCompileInputs.cache
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\obj\Debug\net6.0\Resumo Herança e Polimorfismo.dll
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\obj\Debug\net6.0\refint\Resumo Herança e Polimorfismo.dll
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\obj\Debug\net6.0\Resumo Herança e Polimorfismo.pdb
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\obj\Debug\net6.0\Resumo Herança e Polimorfismo.genruntimeconfig.cache
+E:\Matheus\OneDrive\Cofre Pessoal\Pessoal\Escola\Cotemig\3 ANO\POO\Resumo Herança e Polimorfismo\Resumo Herança e Polimorfismo\obj\Debug\net6.0\ref\Resumo Herança e Polimorfismo.dll
